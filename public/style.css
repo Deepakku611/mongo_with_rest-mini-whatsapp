@@ -1,0 +1,75 @@
+body{
+    margin-left: 20px;
+    
+    
+}
+.chat
+{
+    background-color: aliceblue;
+    padding: 20px;
+    
+    display: inline-block;
+}
+.msg
+{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+.home
+{
+    width: 600px;
+    height: 100px;
+     background-color: aliceblue;
+    margin: auto;
+    margin-top: 50px;
+   text-align: center;
+    
+}
+.home a
+{
+    text-decoration: none;
+    font-weight: 700;
+}
+.index h1
+{
+    text-align: center;
+    font-weight:bolder;
+}
+button
+{
+    background-color:cadetblue;
+   
+}
+button:hover {
+    font-weight: 700;
+}
+button:active
+{
+    background-color: blueviolet;
+}
+.new ,.edit
+{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    background-color: aliceblue;
+}
+.new h3,.edit h3
+{
+    font-weight: 700;
+    text-align: center;
+    
+}
+.new form,.edit form
+{ 
+    display: block;
+    width: 300px;
+    margin: auto;
+    
+}
+.edit p
+{
+    text-align: center;
+}
